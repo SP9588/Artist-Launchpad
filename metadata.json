@@ -1,0 +1,6 @@
+{
+  "name": "Artist Launchpad - Skills Academy",
+  "description": "Professional artist training academy for Acting, Dancing, Singing, and Music Production. High-converting course showcase, application portal, and administrative CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

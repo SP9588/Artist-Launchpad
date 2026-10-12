@@ -1,0 +1,134 @@
+[
+  {
+    "id": "app_1791775909285_6868",
+    "code": "ALP-6868",
+    "fullName": "Nikhil Kapoor",
+    "phone": "9820011223",
+    "cityDistrict": "Mumbai, Bandra",
+    "course": "Acting",
+    "skillLevel": "Beginner",
+    "trainingMode": "Offline",
+    "schedule": "Flexible",
+    "consent": true,
+    "consentTimestamp": "2026-10-12T03:31:49.285Z",
+    "createdAt": "2026-10-12T03:31:49.285Z",
+    "status": "New",
+    "notes": []
+  },
+  {
+    "id": "app_101",
+    "code": "ALP-1042",
+    "fullName": "Aarav Sharma",
+    "phone": "+91 98201 54321",
+    "email": "aarav.sharma@example.com",
+    "cityDistrict": "Mumbai, Suburban",
+    "course": "Acting",
+    "skillLevel": "Beginner",
+    "trainingMode": "Offline",
+    "ageGroup": "18-24",
+    "schedule": "Evening",
+    "learningGoals": "Aspiring theater and OTT actor. Want to master screen presence, voice projection, and audition monologues.",
+    "consent": true,
+    "consentTimestamp": "2026-10-09T03:31:06.064Z",
+    "createdAt": "2026-10-09T03:31:06.065Z",
+    "status": "Interested",
+    "notes": [
+      {
+        "id": "note_1",
+        "text": "Spoke with Aarav via WhatsApp. Highly motivated for the weekend batch.",
+        "author": "Priya (Admissions)",
+        "createdAt": "2026-10-10T03:31:06.065Z"
+      }
+    ]
+  },
+  {
+    "id": "app_102",
+    "code": "ALP-1089",
+    "fullName": "Rhea Sen",
+    "phone": "+91 98112 34567",
+    "email": "rhea.sen@example.com",
+    "cityDistrict": "South Delhi, New Delhi",
+    "course": "Singing",
+    "skillLevel": "Some Experience",
+    "trainingMode": "Hybrid",
+    "ageGroup": "25-34",
+    "schedule": "Morning",
+    "learningGoals": "Trained in basic Hindustani classical. Looking to sing Bollywood contemporary & improve studio mic performance.",
+    "consent": true,
+    "consentTimestamp": "2026-10-10T03:31:06.065Z",
+    "createdAt": "2026-10-10T03:31:06.065Z",
+    "status": "Trial Scheduled",
+    "notes": [
+      {
+        "id": "note_2",
+        "text": "Vocal audition slot booked for Saturday 11:30 AM with Maestro Vikram.",
+        "author": "Arjun (Faculty Lead)",
+        "createdAt": "2026-10-11T09:31:06.065Z"
+      }
+    ]
+  },
+  {
+    "id": "app_103",
+    "code": "ALP-1120",
+    "fullName": "Karan Deshmukh",
+    "phone": "+91 97654 32109",
+    "email": "karan.beats@example.com",
+    "cityDistrict": "Pune, Maharashtra",
+    "course": "Music Production",
+    "skillLevel": "Intermediate",
+    "trainingMode": "Online",
+    "ageGroup": "18-24",
+    "schedule": "Flexible",
+    "learningGoals": "Been making FL Studio beats for 1 year. Need professional mixing, mastering, and vocal tracking instruction in Ableton Live / Logic.",
+    "consent": true,
+    "consentTimestamp": "2026-10-11T15:31:06.065Z",
+    "createdAt": "2026-10-11T15:31:06.065Z",
+    "status": "New",
+    "notes": []
+  },
+  {
+    "id": "app_104",
+    "code": "ALP-1145",
+    "fullName": "Ananya Roy",
+    "phone": "+91 99032 11223",
+    "email": "ananya.roy@example.com",
+    "cityDistrict": "Kolkata, West Bengal",
+    "course": "Dancing",
+    "skillLevel": "Some Experience",
+    "trainingMode": "Hybrid",
+    "ageGroup": "18-24",
+    "schedule": "Evening",
+    "learningGoals": "Passionate about commercial Bollywood and semi-classical fusion choreography.",
+    "consent": true,
+    "consentTimestamp": "2026-10-10T15:31:06.065Z",
+    "createdAt": "2026-10-10T15:31:06.065Z",
+    "status": "Enrolled",
+    "notes": [
+      {
+        "id": "note_3",
+        "text": "Registration completed. Enrolled in Batch Delta commencing next month.",
+        "author": "Priya (Admissions)",
+        "createdAt": "2026-10-11T17:31:06.065Z"
+      }
+    ]
+  },
+  {
+    "id": "app_105",
+    "code": "ALP-1158",
+    "fullName": "Sameer Verma",
+    "phone": "+91 98450 99887",
+    "email": "sameer.v@example.com",
+    "cityDistrict": "Bengaluru, Karnataka",
+    "course": "Multiple Skills",
+    "skillLevel": "Beginner",
+    "trainingMode": "Offline",
+    "ageGroup": "25-34",
+    "schedule": "Evening",
+    "learningGoals": "Interested in dual Acting + Dance preparation for upcoming independent theater productions.",
+    "consent": true,
+    "consentTimestamp": "2026-10-11T23:31:06.065Z",
+    "createdAt": "2026-10-11T23:31:06.065Z",
+    "status": "New",
+    "notes": []
+  }
+]
